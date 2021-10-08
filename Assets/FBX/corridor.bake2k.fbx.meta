@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8b81e90c22c758640a2575e95a5bac95
+guid: eab9edd0d52855c45b26b6063d69a09d
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -22,10 +22,10 @@ ModelImporter:
     2100000: door_cycles
     2100002: door2_cycles
     2100004: window_cycles
-    2100006: wood_cycles
-    2100008: ceiling_cycles
-    2100010: floor_cycles
-    2100012: wall_cycles
+    2100006: wall_cycles
+    2100008: wood_cycles
+    2100010: ceiling_cycles
+    2100012: floor_cycles
     2100014: fogo_cycles.001
     2100016: tocha_cycles
     2300000: beam
@@ -44,10 +44,10 @@ ModelImporter:
     3300012: window
     4300000: doors
     4300002: window
-    4300004: beam
-    4300006: ceiling
-    4300008: floor
-    4300010: walls
+    4300004: walls
+    4300006: beam
+    4300008: ceiling
+    4300010: floor
     4300012: tochas
     2186277476908879412: ImportLogs
   externalObjects:
@@ -60,12 +60,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: door2_cycles
-    second: {fileID: 2100000, guid: fbc4ef9fef92c8c46841a4866b51fdf3, type: 2}
+    second: {fileID: 2100000, guid: 883d72a57ed1be1428ad2dbc0232aeb3, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: door_cycles
-    second: {fileID: 2100000, guid: 059a5f25fbfea5b4c9d5009e94d6954f, type: 2}
+    second: {fileID: 2100000, guid: 17c3ea042f2cd5d419dc391eed8f8cb1, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
